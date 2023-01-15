@@ -1,0 +1,21 @@
+.filmPage {
+    flex-grow: 1;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
